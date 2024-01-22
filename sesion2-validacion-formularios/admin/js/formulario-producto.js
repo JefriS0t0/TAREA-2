@@ -1,3 +1,4 @@
+// Se hizo una correcion en la linea 122 del archivo nuevoproducto.html , ya que el ID y Name no coincidian para hacer las validaciones
 const formulario = document.getElementById("formulario-producto");
 const inputs = document.querySelectorAll("#formulario-producto input");
 const selects = document.querySelectorAll("#formulario-producto select");
