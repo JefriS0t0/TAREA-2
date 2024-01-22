@@ -1,20 +1,19 @@
-# UD2 Desarrollo de Interfaces de Usuario Interactivas con Javascript
+# Tarea-2 
 
-### Programa de Frontend Developer Fundamentals :computer:
+### Seguimiento de Guía y Personalizacion de codigo :computer::computer:
 
-Desarrollar interfaces de usuario de aplicaciones para plataformas web y móviles, para proveer de espacios virtuales en los que las empresas puedan ofrecer sus productos y servicios, utilizando lenguajes de programación, progressive frameworks y herramientas de desarrollo de software para entornos Cloud Computing.
+Se realizó seguimiento de la guía dada , se personalizó el codigo y se corrigió líneas de codigo de la guía principal.
 
- ![Frontend Developer Fundamentals](https://www.certus.edu.pe/wp-content/uploads/2020/08/front-end-developer.jpg)
+ ![DESARROLLO WEB CERTUS](/README.png)
 
-#### Profesores
+#### Alumno
 
-- **Alvi Ganoza Richard Nick**
+- **JEFRI JHONEL SOTO RIOS**
   
-- **Montoya Ventocilla Omar Anthony**
 
 #### Contenido
 
-- **SESIÓN 2:**  Validación  de formularios.
+- **TAREA-2**  Validación  de formularios.
 
 
 
